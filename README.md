@@ -26,9 +26,9 @@ Naš projekat ima za cilj rešavanje problema prirodnih katastrofa korišćenjem
 
 | Ime | Uloga |
 |-----|-------|
-| Ana | Programer |
-| Luka | Mehaničar |
-| Mia  | Istraživač |
+|Teodor| Programer |
+| Gligorije | Mehaničar |
+| Teodora | Istraživač |
 
 ---
 
